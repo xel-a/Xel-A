@@ -1,0 +1,3 @@
+- 🙋‍♂️ Hey there, human. This is @Xel-A, nice to meet you!
+- 📚 I'm currently studying Computer Science at University of Cebu Lapu-lapu and Mandaue.
+- 🐣 I'm a rookie at coding but I'll strive to be the better version of myself each day.
