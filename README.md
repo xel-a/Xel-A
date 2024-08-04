@@ -1,3 +1,4 @@
-- 🙋‍♂️ Hey there, human. I'm Axel Rom Monteroyo Ignacio, nice to meet you!
-- 📚 I'm currently studying Computer Science at University of Cebu Lapu lapu & Mandaue.
-- 🐣 I'm a rookie at coding but I'll strive to be the better version of myself each day.
+- 🙋‍♂️ Hey there, human. I'm Axel Rom Ignacio, nice to meet you!
+- 🎓 A fresh graduate of University of Cebu Lapu lapu & Mandaue with a degree of Bachelor of Science in Computer Science.
+- 🏅 Cum Laude and a consistent dean's lister.
+- 🔐 Hoping for a career in cybersecurity.
