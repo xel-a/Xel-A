@@ -1,4 +1,4 @@
 - 🙋‍♂️ Hey there, human. I'm Axel Rom Ignacio, nice to meet you!
 - 🎓 A fresh graduate of University of Cebu Lapu lapu & Mandaue with a degree of Bachelor of Science in Computer Science.
 - 🏅 Cum Laude and a consistent dean's lister.
-- 🔐 Hoping for a career in cybersecurity.
+- 🔐 Hoping for a career in software development or cybersecurity.
